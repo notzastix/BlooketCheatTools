@@ -8,7 +8,7 @@ prompt = function(string, num) {
     let sub = document.getElementById('sub')
 
     text.innerText = string;
-    sub.addEventListener('keydown', (e) => {
+    window.addEventListener('keydown', (e) => {
         if (e.key == "Enter") {
             var dataa = document.getElementById('input').value
             var data = Number(dataa)
