@@ -36,6 +36,6 @@ switch (rand) {
         response1 = "10"
         break;
     default:
-        console.error("idnt return a correct response, returning a error code.")
+        console.error("didnt return a correct number from 0-10.")
         response1 = "an error has occured please report this"
 }
