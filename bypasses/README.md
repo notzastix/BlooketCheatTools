@@ -6,4 +6,4 @@
 prompt("the question", true) //returns a number.
 prompt("the question") //returns a string
 ```
-#### note: currently their isnt a way to paste javascript, like the normal prompt() does, so you have to change console.log(data/dataa) to a variable, running a diffrent function etc.
+#### note: currently their isnt a way to paste javascript, like the normal prompt() does, so you have to change console.log(data/dataa) to a variable, run a diffrent function etc. And if your semi-advanced you might be able to code in another param to declare where to send the data.
