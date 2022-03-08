@@ -4,4 +4,4 @@
 
 ### credits:
 - [zastix](https://github.com/ZasticBradyn) (me) - coding the stuff
-- gliz (github got deleted) - some api stuff
+- [gliz](https://glizzers.xyz/) (github got deleted) - some api stuff
