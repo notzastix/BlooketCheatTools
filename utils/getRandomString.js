@@ -1,4 +1,3 @@
-// just a script to get a random string and return it, it could be useful.
 let rand = Math.floor(Math.random() * 11);
 let response1 = null;
 switch (rand) {
