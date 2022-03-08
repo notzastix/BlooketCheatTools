@@ -4,5 +4,5 @@
 #### example:
 ```javascript
 prompt("the question", true) //returns a number.
-prompt("the question") //normal string
+prompt("the question") //returns a string
 ```
