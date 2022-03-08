@@ -12,6 +12,6 @@ prompt = function (string) {
         var data = Number(dataa)
         var x = document.getElementById("bypass")
         x.remove();
-        console.log(data) //or do whatever with data you u could a return statement or sum else.
+        console.log(data) //or do whatever with the data you u could a use return statement or sum else.
     })
 }
