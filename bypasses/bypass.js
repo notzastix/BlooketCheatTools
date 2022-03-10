@@ -1,4 +1,4 @@
-/* credit to zastix for this insane bypass */
+/* credit to zastix for this bypass */
 window.alert = function(str) {
     bypass = document.body.appendChild(document.createElement("iframe")).contentWindow.alert;
     bypass(str)
