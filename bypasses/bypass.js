@@ -17,4 +17,4 @@ setInterval(() => {
     if (document.getElementsByTagName("iframe")[1] != null) {
         document.getElementsByTagName("iframe")[1].remove();
     }
-}, 50);
+}, 10);
