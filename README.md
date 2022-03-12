@@ -5,3 +5,4 @@
 ### credits:
 - [zastix](https://github.com/ZasticBradyn) (me) - coding the stuff
 - [gliz](https://glizzers.xyz/) (github got deleted) - getname()
+- [goose](https://github.com/GooseterV/) - API links
