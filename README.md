@@ -1,6 +1,5 @@
 # BlooketCheatTools
-some stuff 2 help you make hacks in blooket.
-(read the license b4 you use these tools)
+some stuff 2 help you make hacks in blooket.<br>(read the license b4 you use these tools)
 
 
 ### credits:
