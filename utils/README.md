@@ -10,4 +10,5 @@ Noti("Message to display", "Name of message.")
 # loadjQuery.js
 ### Loads [jQuery](https://jquery.com/) into the webpag
 # loadGUI.js
-### Loads HTML + CSS into a webpage and makes it draggable.
+### Loads HTML + CSS into a webpage and makes it draggable.<br>
+(code from [w3schools](https://www.w3schools.com/howto/howto_js_draggable.asp))
