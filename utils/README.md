@@ -1,8 +1,8 @@
 # getRandomString.js
 ### Gets a random string from 0-10.
 # Notification.js
-### Shows a notification in the bottem right of your screen
-#### Syntax:
+### Shows a notification in the bottem right of your screen<br>
+Syntax:
 ```js
 Noti("Message to display", "Name of message.")
 ```
