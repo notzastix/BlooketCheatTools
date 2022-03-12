@@ -1,6 +1,6 @@
 let element = document.createElement('div');
 element.innerHTML = `html here`;
-element.style = `css here`;
+element.style = `postion: absolute;`; //you need position: absolute; so dont remove it
 document.body.appendChild(element);
 var pos1 = 0,
     pos2 = 0,
