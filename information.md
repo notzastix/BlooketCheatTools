@@ -4,3 +4,6 @@ Now this can be extremly confusing at times, thats why i recommend learing react
 
 # Firebase
 Blooket uses Firebase for backend, therefore we use it to set values, using firebase.setVal, so it is pretty important<br>unless you want to use a variant of forceUpdate();
+
+# API
+Blooket's api is quite important, it is used for things like addTokens and autoAnswer<br>Now there is two diffrent ways to interact with the API,<br1. jQuery<br>2. XML Requests
