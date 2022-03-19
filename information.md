@@ -6,4 +6,4 @@ Now this can be extremly confusing at times, thats why i recommend learing react
 Blooket uses Firebase for backend, therefore we use it to set values, using firebase.setVal, so it is pretty important<br>unless you want to use a variant of forceUpdate();
 
 # API
-Blooket's api is quite important, it is used for things like addTokens and autoAnswer<br>Now there is two diffrent ways to interact with the API,<br>1. jQuery<br>2. XML Requests
+Blooket's api is quite important, it is used for things like addTokens and autoAnswer<br>Now there is two diffrent ways to interact with the API,<br>1. [jQuery](https://api.jquery.com/)<br>2. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)<br>I personly prefer jQuery but jQuery has downsides for example, It is a new library to learn and it is hard to stably inject it into blooket, Because blooket doesnt use jquery and blocks unknown requests<br>We can really use it without pasting the entire code to the libray, Thats why for beginners i reccomomend using javascript's vannile [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
