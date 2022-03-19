@@ -7,4 +7,3 @@ const response = await fetch('https://api.blooket.com/api/users/verify-session',
     credentials: "include"
 });
 const data = await response.json();
-let name = data.name;
