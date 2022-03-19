@@ -15,7 +15,7 @@ Blooket's API is quite important, it is used for things like addTokens and autoA
 
 # Anitcheat
 
-One thing that has been coming up a lot recently is Ben adding an Anticheat, now currently he added a detection system for editing React values and adding 500 tokens at once, also he overrode alert(), prompt() and confirm() and added a function to detect if the input had the following bits of text: 'basil', 'incompatible', 'gold', 'script is outdated' in it, if it did, it would send a request to Blooket's API to disable your account.
+One thing that has been coming up a lot recently is Ben adding an Anticheat, now currently he added a detection system for editing React values and adding 500 tokens at once, also he overrode alert(), prompt() and confirm() and added a function to detect if the input had the following bits of text: 'basil', 'incompatible', 'gold', 'script is outdated' in it, if it did, it would send a request to Blooket's API to disable your account. A while back ben also added encryption to his API requests, mainly for adding tokens, so I would reccomend trying to decrypt it.
 
 ### Bypassing?
 
