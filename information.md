@@ -9,7 +9,9 @@ Blooket uses Firebase for backend, therefore we use it to set values, using fire
 
 # API
 
-Blooket's API is quite important, it is used for things like addTokens and autoAnswer<br>Now there are two different ways to interact with the API,<br>1. [jQuery](https://api.jquery.com/)<br>2. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)<br>I personally prefer jQuery, but jQuery has downsides for example, It is a new library to learn, and it is hard to stably inject it into blooket, Because blooket doesn't use jQuery and blocks unknown requests<br>We can really use it without pasting the entire code to the library, That's why for  beginners i recommend using JavaScript's vanilla [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+Blooket's API is quite important, it is used for things like addTokens and autoAnswer<br>Now there are two different ways to interact with the API,
+1. [jQuery](https://api.jquery.com/)
+2. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)<br>I personally prefer jQuery, but jQuery has downsides for example, It is a new library to learn, and it is hard to stably inject it into blooket, Because blooket doesn't use jQuery and blocks unknown requests<br>We can really use it without pasting the entire code to the library, That's why for  beginners i recommend using JavaScript's vanilla [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 # Anitcheat
 
