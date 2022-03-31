@@ -1,3 +1,5 @@
+# CheatExample.js
+### An example of a hack for blooket
 # [getRandomString.js](https://github.com/ZasticBradyn/BlooketCheatTools/blob/main/utils/getRandomString.js)
 ### Gets a random string from 0-10.
 # [Notification.js](https://github.com/ZasticBradyn/BlooketCheatTools/blob/main/utils/Notification.js)
