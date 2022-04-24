@@ -1,3 +1,3 @@
 /* thanks to https://github.com/charleywright my horrible coding now looks good. */
-const tips = ["Tip0","Tip1","Tip2","Tip3","Tip4","Tip5","Tip6","Tip7","Tip8","Tip9","Tip10"];
-const getTip = () => tips[Math.floor(Math.random() * 11)];
+const Strings = ["String0","String1","String2","String3","String4","String5","String6","String7","String8","String9","String10"];
+const getString = () => Strings[Math.floor(Math.random() * 11)];
