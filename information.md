@@ -17,7 +17,7 @@ personally prefer jQuery, but jQuery has downsides, for example It is a new libr
 
 # Anitcheat
 
-One thing that has been coming up a lot recently is Ben adding an Anticheat, now currently he added a detection system for editing React values and adding 500 tokens at once, also he overrode alert(), prompt() and confirm() and added a function to detect if the input had the following bits of text: 'basil', 'incompatible', 'gold', 'script is outdated' in it, if it did, it would send a request to Blooket's API to disable your account. A while back ben also added encryption to his API requests, dont worry, i have a bypass ready [here](ttps://github.com/ZasticBradyn/BlooketCheatTools/blob/main/bypasses/requestEncoder.js)
+One thing that has been coming up a lot recently is Ben adding an Anticheat, now currently he added a detection system for editing React values and adding 500 tokens at once, also he overrode alert(), prompt() and confirm() and added a function to detect if the input had the following bits of text: 'basil', 'incompatible', 'gold', 'script is outdated' in it, if it did, it would send a request to Blooket's API to disable your account. A while back ben also added encryption to his API requests, dont worry, i have a bypass ready [here](https://github.com/ZasticBradyn/BlooketCheatTools/blob/main/bypasses/requestEncoder.js)
 
 # Bypassing?
 
