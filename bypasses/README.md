@@ -1,3 +1,5 @@
+# [getValues.js](#)
+### A function to get the blooket build and secret
 # [requestEncoder.js](https://github.com/notzastix/BlooketCheatTools/blob/main/bypasses/requestEncoder.js)
 ### A encoder for making requests on blooket.
 ### Exmaple: 
@@ -11,13 +13,13 @@ fetch("https://api.blooket.com/api/users", {
             credentials: "include",
             headers: {
                 "content-type": "application/json",
-                "X-Blooket-Build": e.blooketBuild // to get blooket build use [getValues.js](#)
+                "X-Blooket-Build": e.blooketBuild // to get blooket build use getValues.js
             },
             body: await encodeValues({
                 name: x.name,
                 addedTokens: 500,
                 addedXp: 300
-            }, e.secret)
+            }, e.secret) // to get secret use getValues.js
         }).then(() => alert('Added daily rewawrds!')).catch(() => alert('There was an error when adding rewards!'));
     }).catch(() => alert('There was an error encoding requests!'));
 }).catch(() => alert('There was an error getting username!'));
