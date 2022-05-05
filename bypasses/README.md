@@ -1,4 +1,4 @@
-# [getValues.js](#)
+# [getValues.js](https://github.com/notzastix/BlooketCheatTools/blob/main/bypasses/getValues.js)
 ### A function to get the blooket build and secret
 # [requestEncoder.js](https://github.com/notzastix/BlooketCheatTools/blob/main/bypasses/requestEncoder.js)
 ### A encoder for making requests on blooket.
