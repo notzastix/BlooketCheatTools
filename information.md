@@ -1,7 +1,8 @@
 
 # React
 Blooket is a web-app running on [React](https://reactjs.org/)<br>and it also uses react to store its values for the games, therefore we can debug/reverse engineer it <br>A very good tool for this is [React-Developer-Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi), a Chrome extension a tool that is used for viewing react values, but we can use it to find where Ben stores game data, and edit it.<br>
-Now, this can be extremely confusing at times, that's why i recommend learning React itself before attempting to cheat with it.
+Now, this can be extremely confusing at times, that's why i recommend learning React itself before attempting to cheat with it.<br>
+the __correct__ way to edit react values is via ``` reactHandler().stateNode.setState() ```, but if you want to edit values manually make sure to call ``` reactHandler().stateNode.forceUpdate() ```, if you want some examples check out the example folder [here](https://github.com/ZasticBradyn/BlooketCheatTools/blob/main/examples/)
 
 # Firebase
 
