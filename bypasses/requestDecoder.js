@@ -1,5 +1,5 @@
 // Coded by https://github.com/qaiik/ (a very cool man)
-const decoder = async (b, c) => {
+const decodeValues = async (b, c) => {
     let d = new TextEncoder().encode(c),
         e = await crypto.subtle.digest("SHA-256", d),
         f = await crypto.subtle.importKey("raw", e, { name: "AES-GCM" }, !1, ["encrypt", "decrypt"]),
