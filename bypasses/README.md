@@ -1,5 +1,17 @@
 # [getValues.js](https://github.com/notzastix/BlooketCheatTools/blob/main/bypasses/getValues.js)
 ### A function to get the blooket build and secret
+# [requestDecoder.js](https://github.com/notzastix/BlooketCheatTools/blob/main/bypasses/requestDecoder.js)
+### A decoder for the [requestEncoder](https://github.com/notzastix/BlooketCheatTools/blob/main/bypasses/requestEncoder.js)
+### Example:
+```js
+getValues().then(async e => {
+    encoded = await encodeValues({
+        test: 'hey'
+    }, e.secret) // use getValues.js to get secret
+    decoded = await decodeValues(encoded, e.secret) // use getValues.js to get secret
+    console.log(decoded)
+})
+```
 # [requestEncoder.js](https://github.com/notzastix/BlooketCheatTools/blob/main/bypasses/requestEncoder.js)
 ### A encoder for making requests on blooket.
 ### Exmaple: 
